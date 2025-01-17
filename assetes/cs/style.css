@@ -1,0 +1,46 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    font-family: Poppins, sans-serif;
+
+}
+.nav{
+    display: flex
+;
+    justify-content: space-between;
+    align-items: center;
+    margin: 70px 370px;
+}
+.nav ul{
+    display: flex
+    ;
+    list-style: none;
+        gap: 55px;
+        align-items: center;
+}
+.nav ul li{
+  color: #242a45;
+  font-size: 11px;
+}
+
+.nav button{
+    height: 40px;
+    background-color: #fa5959;
+    width: 86px;
+    border: none;
+    color: white;
+    border-radius: 6px;
+}
+.continer{
+    display: flex;
+    justify-content: space-between;
+}
+
+.div-1{
+    
+}
+
+
